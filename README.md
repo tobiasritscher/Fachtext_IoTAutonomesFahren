@@ -7,3 +7,6 @@
 [Geschichte von autonomous driving](https://blog.hslu.ch/majorobm/2019/03/27/iot-smart-autonomous-cars-easymobiliser/)
 
 [The 6 Levels of Vehicle Autonomy Explained](https://www.synopsys.com/automotive/autonomous-driving-levels.html)
+
+
+Zum Merken: Artifical Inteligence and Internet of Things: S.12 & 13 / S.10
